@@ -1,4 +1,4 @@
-package com.github.kamicloud;
+package com.github.kamicloud.test;
 
 public class Test {
     public static String test() {
